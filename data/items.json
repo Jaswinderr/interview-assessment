@@ -3,5 +3,20 @@
   { "id": 2, "name": "Noise Cancelling Headphones", "category": "Electronics", "price": 399 },
   { "id": 3, "name": "Ultra‑Wide Monitor", "category": "Electronics", "price": 999 },
   { "id": 4, "name": "Ergonomic Chair", "category": "Furniture", "price": 799 },
-  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199 }
+  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199 },
+  { "id": 6, "name": "Wireless Mouse", "category": "Electronics", "price": 49 },
+  { "id": 7, "name": "Mechanical Keyboard", "category": "Electronics", "price": 129 },
+  { "id": 8, "name": "Smartphone XL", "category": "Electronics", "price": 1099 },
+  { "id": 9, "name": "4K Action Camera", "category": "Electronics", "price": 299 },
+  { "id": 10, "name": "Bookshelf", "category": "Furniture", "price": 399 },
+  { "id": 11, "name": "LED Desk Lamp", "category": "Furniture", "price": 89 },
+  { "id": 12, "name": "Yoga Mat", "category": "Sports", "price": 39 },
+  { "id": 13, "name": "Running Shoes", "category": "Sports", "price": 159 },
+  { "id": 14, "name": "Bluetooth Speaker", "category": "Electronics", "price": 199 },
+  { "id": 15, "name": "Coffee Maker", "category": "Home Appliances", "price": 129 },
+  { "id": 16, "name": "Air Purifier", "category": "Home Appliances", "price": 249 },
+  { "id": 17, "name": "Electric Kettle", "category": "Home Appliances", "price": 69 },
+  { "id": 18, "name": "Office Desk Organizer", "category": "Furniture", "price": 29 },
+  { "id": 19, "name": "Noise Reduction Earbuds", "category": "Electronics", "price": 149 },
+  { "id": 20, "name": "Smartwatch", "category": "Electronics", "price": 349 }
 ]

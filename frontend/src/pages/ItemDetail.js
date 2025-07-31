@@ -7,7 +7,7 @@ function ItemDetail() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch('/api/items/' + id)
+    fetch('http://localhost:4001/api/items/' + id)
       .then(res => res.ok ? res.json() : Promise.reject(res))
       .then(setItem)
       .catch(() => navigate('/'));
