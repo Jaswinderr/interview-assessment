@@ -7,7 +7,7 @@ import { DataProvider } from '../state/DataContext';
 function App() {
   return (
     <DataProvider>
-      <nav style={{padding: 16, borderBottom: '1px solid #ddd'}}>
+      <nav style={{ padding: 16, borderBottom: '1px solid #ddd', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: "center" }}>
         <Link to="/">Items</Link>
       </nav>
       <Routes>

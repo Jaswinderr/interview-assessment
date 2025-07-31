@@ -13,10 +13,10 @@ function ItemDetail() {
       .catch(() => navigate('/'));
   }, [id, navigate]);
 
-  if (!item) return <p>Loading...</p>;
+  if (!item) return <p style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: "center" }}>Loading...</p>;
 
   return (
-    <div style={{padding: 16}}>
+    <div style={{ padding: 16, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: "center" }}>
       <h2>{item.name}</h2>
       <p><strong>Category:</strong> {item.category}</p>
       <p><strong>Price:</strong> ${item.price}</p>
